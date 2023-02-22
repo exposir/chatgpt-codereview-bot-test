@@ -36,16 +36,3 @@ No description provided.
 exposir added 2 commits 9 minutes ago
 @exposir
 Update README.md
-84ed6ae
-@exposir
-Update README.md
-4e22346
-Merge state
-Add more commits by pushing to the test1 branch on exposir/chatgpt-codereview-bot-test.
-
-Require approval from specific reviewers before merging
-Branch protection rules ensure specific people approve pull requests before they're merged.
-
-This branch has no conflicts with the base branch
-Merging can be performed automatically.
-You can also open this in GitHub Desktop or view .
